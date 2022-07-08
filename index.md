@@ -8,7 +8,7 @@ Read All the start items below before actually getting started. First of all to 
 ![minimum-requirements-unity](./assets/images/minimum-requirements-unity.png)
 
 How to get everything install:
-1. setup unity i recommend folling this tutorial: https://www.youtube.com/watch?v=ewiw2tcfen8
+1. setup unity i recommend folling this tutorial: [how to setup unity](https://www.youtube.com/watch?v=ewiw2tcfen8)
     - he uses visual Studio but just use visual Studio code instead 
     - you won't need to worry about licensing just use te free version
 2. Download and install [unity](https://unity.com/download) You'll need an account so just sign up for that it's all free
